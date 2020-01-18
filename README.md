@@ -8,7 +8,7 @@ Mathematics for Machine Learning
 b) x1= 1 and x2 = -3
 
 
-2.4 matrix products . easy . just calculate the matrix produkcts straightforward. possible iff (thats if and only if) the number of columns of A = number of rows of B .
+2.4 matrix products . easy . just calculate the matrix products straightforward. possible iff (thats if and only if) the number of columns of A = number of rows of B .
 
 2.5 Gaussian algorithm leads to a contradiction --> no solution
 
